@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, it's a topic modeling project </h1>
 <h3 align="center">
-  <img src="diagram.png" width="512" height="512">
+  <img src="diagram.png" width="512" height="340">
 </h3>
 
 
